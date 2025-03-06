@@ -2,3 +2,5 @@ openai-whisper
 TTS
 sounddevice   # For capturing audio
 numpy         # Required for audio processing
+soundfile
+ffmpeg
